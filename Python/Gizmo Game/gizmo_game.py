@@ -30,7 +30,7 @@ def main():
             main()
         if again == "no":
             print("Well okay, Mister Moneybags!")
-            break
+            return
     pick = input("Do you want to make a gizmo? (yes/no): ")
     if pick == "yes":
         time.sleep(2)
