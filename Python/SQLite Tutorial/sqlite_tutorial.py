@@ -20,7 +20,7 @@ wordUsed = 'Python Sentiment'
 graphArray = []
 
 for row in cursor.execute(sql,[(wordUsed)]):
-        startingInfo = (str(row).replace("'","")).replace(")","").replace(")","")
+        startingInfo = (str(row).replace("'","")).replace(")","").replace(")","").replace("u","")
         splitInfo = startingInfo.split(',')
         graphArrayAppend = splitInfo[2] + ',' + splitInfo[4]
         graphArray.append(graphArrayAppend)
