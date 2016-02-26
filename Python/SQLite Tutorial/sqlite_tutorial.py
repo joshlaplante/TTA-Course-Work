@@ -36,5 +36,4 @@ ax1 = fig.add_subplot(1,1,1, axisbg = 'white')
 plt.plot_date(x=datestamp, y = value, fmt = 'b-', label = 'value', linewidth = 2)
 plt.show()
 
-###this code doesn't seem to work in python 3,
-###but the instructor never mentioned that...
+###this code doesn't seem to work in python 3, just python 2
