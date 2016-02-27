@@ -75,7 +75,7 @@ class windowClass(wx.Frame):
         
 
 
-    def timeScript(self, now, limit):
+    def timedCopier(self, now, limit):
         for files in os.listdir(self.source):
             #set source file path
             source_file = os.path.join(self.source, files)

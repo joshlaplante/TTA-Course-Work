@@ -3,7 +3,7 @@ import shutil
 import datetime
 
 
-def timeScript(now, limit):
+def timedCopier(now, limit):
     #set source and destination folder paths
     source = r'C:\Users\joshl_000\Desktop\Folder A'
     destination = r'C:\Users\joshl_000\Desktop\Folder B'
