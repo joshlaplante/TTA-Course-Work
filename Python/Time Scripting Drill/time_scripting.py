@@ -32,6 +32,6 @@ def main():
     limitdiff = datetime.timedelta(hours = 24)
     limit = now - limitdiff
     #run timeScript with current and limit times
-    timeScript(now, limit)
+    timedCopier(now, limit)
 
 if __name__ == "__main__": main()

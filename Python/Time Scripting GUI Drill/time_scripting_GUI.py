@@ -105,7 +105,7 @@ class windowClass(wx.Frame):
         #get destination
         self.destination = self.destination
         #run timeScript with current and limit times
-        self.timeScript(now, limit)
+        self.timedCopier(now, limit)
 
 
 def main():
