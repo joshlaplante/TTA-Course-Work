@@ -112,7 +112,7 @@ class windowClass(wx.Frame):
             #get last modified time of file
             mtimestamp = os.path.getmtime(source_file)
             mdatetime = datetime.datetime.fromtimestamp(mtimestamp)
-            #check if modified time is within limit (last 24 hours)
+            #check if modified time is within limit
             if limit < mdatetime < now:
                 #set destination file path
                 destination_file = os.path.join(self.destination, files)
