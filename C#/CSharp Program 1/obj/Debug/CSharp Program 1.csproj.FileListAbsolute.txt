@@ -1,0 +1,6 @@
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Program 1\CSharp Program 1\bin\Debug\CSharp Program 1.exe.config
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Program 1\CSharp Program 1\bin\Debug\CSharp Program 1.exe
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Program 1\CSharp Program 1\bin\Debug\CSharp Program 1.pdb
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Program 1\CSharp Program 1\obj\Debug\CSharp Program 1.csprojResolveAssemblyReference.cache
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Program 1\CSharp Program 1\obj\Debug\CSharp Program 1.exe
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Program 1\CSharp Program 1\obj\Debug\CSharp Program 1.pdb
