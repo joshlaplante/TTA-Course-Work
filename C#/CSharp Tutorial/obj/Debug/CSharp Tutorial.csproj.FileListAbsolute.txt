@@ -1,0 +1,6 @@
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Tutorial\CSharp Tutorial\bin\Debug\CSharp Tutorial.exe.config
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Tutorial\CSharp Tutorial\obj\Debug\CSharp Tutorial.csprojResolveAssemblyReference.cache
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Tutorial\CSharp Tutorial\bin\Debug\CSharp Tutorial.exe
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Tutorial\CSharp Tutorial\bin\Debug\CSharp Tutorial.pdb
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Tutorial\CSharp Tutorial\obj\Debug\CSharp Tutorial.exe
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Tutorial\CSharp Tutorial\obj\Debug\CSharp Tutorial.pdb
