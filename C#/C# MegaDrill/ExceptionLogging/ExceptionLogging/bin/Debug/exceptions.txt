@@ -1,0 +1,2 @@
+System.DivideByZeroException: Attempted to divide by zero.
+   at ExceptionLogging.ExceptionExample.DivideByZero() in C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ExceptionLogging\ExceptionLogging\Program.cs:line 18

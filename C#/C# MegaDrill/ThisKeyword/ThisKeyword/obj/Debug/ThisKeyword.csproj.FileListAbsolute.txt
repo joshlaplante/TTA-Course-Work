@@ -1,0 +1,5 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ThisKeyword\ThisKeyword\bin\Debug\ThisKeyword.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ThisKeyword\ThisKeyword\bin\Debug\ThisKeyword.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ThisKeyword\ThisKeyword\bin\Debug\ThisKeyword.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ThisKeyword\ThisKeyword\obj\Debug\ThisKeyword.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ThisKeyword\ThisKeyword\obj\Debug\ThisKeyword.pdb

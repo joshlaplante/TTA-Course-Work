@@ -1,0 +1,5 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\DerivedClass\DerivedClass\bin\Debug\DerivedClass.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\DerivedClass\DerivedClass\bin\Debug\DerivedClass.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\DerivedClass\DerivedClass\bin\Debug\DerivedClass.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\DerivedClass\DerivedClass\obj\Debug\DerivedClass.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\DerivedClass\DerivedClass\obj\Debug\DerivedClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Enumerables\Enumerables\bin\Debug\Enumerables.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Enumerables\Enumerables\bin\Debug\Enumerables.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Enumerables\Enumerables\bin\Debug\Enumerables.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Enumerables\Enumerables\obj\Debug\Enumerables.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Enumerables\Enumerables\obj\Debug\Enumerables.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Enumerables\Enumerables\obj\Debug\Enumerables.pdb

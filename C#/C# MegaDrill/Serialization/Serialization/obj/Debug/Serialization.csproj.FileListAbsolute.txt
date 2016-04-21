@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Serialization\Serialization\obj\Debug\Serialization.pdb

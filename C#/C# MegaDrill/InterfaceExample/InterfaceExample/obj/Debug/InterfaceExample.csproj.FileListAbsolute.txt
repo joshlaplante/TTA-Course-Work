@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Value+Reference\Value+Reference\bin\Debug\Value+Reference.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Value+Reference\Value+Reference\bin\Debug\Value+Reference.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Value+Reference\Value+Reference\bin\Debug\Value+Reference.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Value+Reference\Value+Reference\obj\Debug\Value+Reference.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Value+Reference\Value+Reference\obj\Debug\Value+Reference.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Value+Reference\Value+Reference\obj\Debug\Value+Reference.pdb

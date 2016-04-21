@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Delegates\Delegates\obj\Debug\Delegates.pdb

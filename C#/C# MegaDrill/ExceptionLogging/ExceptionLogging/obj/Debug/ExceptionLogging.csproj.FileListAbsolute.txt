@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.pdb

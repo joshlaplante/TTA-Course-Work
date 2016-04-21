@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Abstracts+Interfaces\Abstracts+Interfaces\bin\Debug\Abstracts+Interfaces.exe.config
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Abstracts+Interfaces\Abstracts+Interfaces\bin\Debug\Abstracts+Interfaces.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Abstracts+Interfaces\Abstracts+Interfaces\bin\Debug\Abstracts+Interfaces.pdb
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Abstracts+Interfaces\Abstracts+Interfaces\obj\Debug\Abstracts+Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Abstracts+Interfaces\Abstracts+Interfaces\obj\Debug\Abstracts+Interfaces.exe
+C:\Users\joshl_000\Documents\c# projects\C# MegaDrill\Abstracts+Interfaces\Abstracts+Interfaces\obj\Debug\Abstracts+Interfaces.pdb
