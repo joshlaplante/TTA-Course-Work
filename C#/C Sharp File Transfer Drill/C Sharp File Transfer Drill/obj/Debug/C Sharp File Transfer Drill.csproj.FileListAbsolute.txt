@@ -1,0 +1,6 @@
+C:\Users\joshl_000\Documents\c# projects\C Sharp File Transfer Drill\C Sharp File Transfer Drill\bin\Debug\C Sharp File Transfer Drill.exe.config
+C:\Users\joshl_000\Documents\c# projects\C Sharp File Transfer Drill\C Sharp File Transfer Drill\bin\Debug\C Sharp File Transfer Drill.exe
+C:\Users\joshl_000\Documents\c# projects\C Sharp File Transfer Drill\C Sharp File Transfer Drill\bin\Debug\C Sharp File Transfer Drill.pdb
+C:\Users\joshl_000\Documents\c# projects\C Sharp File Transfer Drill\C Sharp File Transfer Drill\obj\Debug\C Sharp File Transfer Drill.csprojResolveAssemblyReference.cache
+C:\Users\joshl_000\Documents\c# projects\C Sharp File Transfer Drill\C Sharp File Transfer Drill\obj\Debug\C Sharp File Transfer Drill.exe
+C:\Users\joshl_000\Documents\c# projects\C Sharp File Transfer Drill\C Sharp File Transfer Drill\obj\Debug\C Sharp File Transfer Drill.pdb
