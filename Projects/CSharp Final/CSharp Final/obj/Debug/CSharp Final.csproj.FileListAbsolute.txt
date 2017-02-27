@@ -1,0 +1,10 @@
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\bin\Debug\CSharp Final.exe.config
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\bin\Debug\CSharp Final.exe
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\bin\Debug\CSharp Final.pdb
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\bin\Debug\EntityFramework.dll
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\bin\Debug\EntityFramework.xml
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\obj\Debug\CSharp Final.csprojResolveAssemblyReference.cache
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\obj\Debug\CSharp Final.exe
+c:\users\joshl_000\documents\visual studio 2015\Projects\CSharp Final\CSharp Final\obj\Debug\CSharp Final.pdb
